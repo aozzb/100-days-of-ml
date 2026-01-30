@@ -1,1 +1,1 @@
-### playing around with a small dataset and logistic regression
+### personal notebooks for 100 days of ml series by campusx on yt
